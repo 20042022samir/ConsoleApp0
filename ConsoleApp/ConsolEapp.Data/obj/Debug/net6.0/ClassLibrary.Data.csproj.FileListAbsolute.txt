@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\ConsoleApppp\ClassLibrary.Data\bin\Debug\net6.0\ClassLibrary.Data.deps.json
+C:\Users\ASUS\source\repos\ConsoleApppp\ClassLibrary.Data\bin\Debug\net6.0\ClassLibrary.Data.dll
+C:\Users\ASUS\source\repos\ConsoleApppp\ClassLibrary.Data\bin\Debug\net6.0\ClassLibrary.Data.pdb
+C:\Users\ASUS\source\repos\ConsoleApppp\ClassLibrary.Data\bin\Debug\net6.0\ConsoleApp.Core.dll
+C:\Users\ASUS\source\repos\ConsoleApppp\ClassLibrary.Data\bin\Debug\net6.0\ConsoleApp.Core.pdb
+C:\Users\ASUS\source\repos\ConsoleApppp\ClassLibrary.Data\obj\Debug\net6.0\ClassLibrary.Data.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleApppp\ClassLibrary.Data\obj\Debug\net6.0\ClassLibrary.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ConsoleApppp\ClassLibrary.Data\obj\Debug\net6.0\ClassLibrary.Data.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApppp\ClassLibrary.Data\obj\Debug\net6.0\ClassLibrary.Data.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ConsoleApppp\ClassLibrary.Data\obj\Debug\net6.0\ClassLibrary.Data.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApppp\ClassLibrary.Data\obj\Debug\net6.0\ClassLibrary.Data.csproj.CopyComplete
+C:\Users\ASUS\source\repos\ConsoleApppp\ClassLibrary.Data\obj\Debug\net6.0\ClassLibrary.Data.dll
+C:\Users\ASUS\source\repos\ConsoleApppp\ClassLibrary.Data\obj\Debug\net6.0\refint\ClassLibrary.Data.dll
+C:\Users\ASUS\source\repos\ConsoleApppp\ClassLibrary.Data\obj\Debug\net6.0\ClassLibrary.Data.pdb
+C:\Users\ASUS\source\repos\ConsoleApppp\ClassLibrary.Data\obj\Debug\net6.0\ref\ClassLibrary.Data.dll
